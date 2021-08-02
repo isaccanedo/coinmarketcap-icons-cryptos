@@ -25,7 +25,7 @@ To run this script, you'll need [Git](https://git-scm.com) and [Node.js](https:/
 
 ```bash
 # Clone the repo
-$ git clone https://github.com/alexandrebouttier/coinmarketcap-icons-cryptos.git
+$ git clone https://github.com/isaccanedo/coinmarketcap-icons-cryptos
 $ yarn
 # Go into the coinmarketcap-icons-cryptos directory
 $ cd coinmarketcap-icons-cryptos
